@@ -2,7 +2,7 @@
 
 I followed the tutorial of Simmon Grimm: [Ionic Side Menu With Multiple Tab Bars](https://youtu.be/IzUip9UEqV0)
 
-<img src="https://github.com/martha-softwaredeveloper/Ionic4-TabBar/blob/master/src/assets/ionic4-tab-bar_screenshot.png" width="500"/>
+<img src="https://github.com/martha-softwaredeveloper/Ionic3-MultipleTabBars/blob/master/src/assets/screenshot.png" width="500"/>
 
 ## App Configuration
 ionic g page dashboardTabs
