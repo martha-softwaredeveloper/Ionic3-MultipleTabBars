@@ -5,13 +5,13 @@ I followed the tutorial of Simmon Grimm: [Ionic Side Menu With Multiple Tab Bars
 <img src="https://github.com/martha-softwaredeveloper/Ionic3-MultipleTabBars/blob/master/src/assets/screenshot.png" width="500"/>
 
 ## App Configuration
-ionic g page dashboardTabs
-ionic g page listsTabs
-ionic g page noTabs
-ionic g page profile
-ionic g page settings
-ionic g page todoList
-ionic g page groceryList
+1. ionic g page dashboardTabs
+2. ionic g page listsTabs
+3. ionic g page noTabs
+4. ionic g page profile
+5. ionic g page settings
+6. ionic g page todoList
+6. ionic g page groceryList
 
 ## Author
 
